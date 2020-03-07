@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (UnitTest1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  UnitTest1.cpp
+E:\softEngineer\person_lab\UnitTest1\UnitTest1.cpp(30,9): warning C4930:  “Line l4(void)”: 未调用原型函数(是否是有意用变量定义的?)
+  UnitTest1.vcxproj -> E:\softEngineer\person_lab\Debug\test.dll
